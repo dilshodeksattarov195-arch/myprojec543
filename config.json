@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseualidate",
+        "uuid": 2041680,
+        "checksum": "ps67c"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
